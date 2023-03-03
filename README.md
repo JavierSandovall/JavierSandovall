@@ -1,14 +1,40 @@
 ## Hi I'M JAVIER!👋⚡⚡
 
 
-☺️- I'M FROM VENEZUELA  I LIVE IN COLOMBIA 
+- I'M FROM VENEZUELA  I LIVE IN COLOMBIA 
 
-☺️-  I'M  studying  web developer
+-  I'M  studying  web developer
 ##  
+<p align="left" style="display:table-cell;vertical-align:middle;">
+  <!--  GitHub Contributions  -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=JavierSandovall&theme=radical&count_private=true&&include_all_commits=true&show_icons=true&hide_border=true&line_height=28&custom_title=My%20GitHub%20Contributions"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Javiersandovall&count_private=true&&include_all_commits=true&show_icons=true&hide_border=true&line_height=28&custom_title=My%20GitHub%20Contributions"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=JavierSandoval&count_private=true&&include_all_commits=true&show_icons=true&hide_border=true&line_height=28&custom_title=My%20GitHub%20Contributions" />
+  </picture>
+  <!--  Top Languages  -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierSandoval&theme=radical&layout=compact&hide_border=true&langs_count=10&hide=html"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierSandoval&theme=buefy&layout=compact&hide_border=true&langs_count=10&hide=html"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierSandovall&layout=compact&hide_border=true&langs_count=10&hide=html" />
+  </picture>
+</p>
 
 
-##
-### 💻Tech Stack:
+
+## 💻Tech Stack:
 
 
 <div style="display: inline_block"><br>

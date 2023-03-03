@@ -1,12 +1,13 @@
-### Hi I'M JAVIER!👋💢❌
-___________________________________________________________________________
+## Hi I'M JAVIER!👋💢❌
+
 
 ☺️- I'M FROM VENEZUELA  I LIVE IN COLOMBIA 
 
 ☺️-  I'M  studying  web developer
-______________________________________________________________________________   
+##  
 
 
+##
 ### 💻Tech Stack:
 
 
@@ -19,4 +20,5 @@ ______________________________________________________________________________
 ![image](https://user-images.githubusercontent.com/126806392/222621461-7089b665-1679-434b-af42-cc27b3fdbf81.png)
 ![image](https://user-images.githubusercontent.com/126806392/222621481-af5c13b3-cb18-488c-bad4-0aa0b5d9d69a.png)
 ![image](https://user-images.githubusercontent.com/126806392/222621514-feaf4627-763b-4c19-ab33-b8099223448e.png)
-________
+
+##
